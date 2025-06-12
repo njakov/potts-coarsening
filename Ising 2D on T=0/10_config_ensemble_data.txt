@@ -1,0 +1,24 @@
+Lattice dimensions: 50
+Number of configurations: 10
+
+Total MC steps per configuration: 3000
+
+Number of active states: 2
+Fraction of active states: 0.2000
+
+Number of ground states: 8
+Fraction of ground states: 0.8000
+
+Magnetization (all configs): [0.28, 1.0, 1.0, 1.0, 1.0, 0.2224, 1.0, 1.0, 1.0, 1.0]
+Mean magnetization (all configs): 0.8502
+
+Energy (all configs): [-4800.0, -5000.0, -5000.0, -5000.0, -5000.0, -4600.0, -5000.0, -5000.0, -5000.0, -5000.0]
+Mean energy (all configs): -4940.0000
+
+Magnetization (active configs): [-0.28, 0.2224]
+Mean magnetization (active configs): -0.0288
+
+Energy (active configs): [-4800.0, -4600.0]
+Mean energy (active configs): -4700.0000
+
+Execution time: 93.15 seconds
