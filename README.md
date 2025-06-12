@@ -1,4 +1,4 @@
-# Potts Model Phase Ordering on Rewired Lattices
+# Potts coarsening on rewired lattices
 
 This project investigates the long-time phase ordering kinetics of the 3-state Potts model on rewired two-dimensional square lattices following a zero-temperature quench. The Potts model describes a system of $N$ spins, each able to occupy one of $q$ states, which evolve through interactions with neighboring spins.
 
