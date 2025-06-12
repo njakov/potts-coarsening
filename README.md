@@ -18,10 +18,11 @@ This work was completed as a high school research project in 2020 at the **Petni
 
 ## Repository Contents
 
+- Simulation code for the Ising model on a single lattice configuration
+- Ensemble Monte Carlo simulation code for the Ising model
 - Simulation code implementing the 3-state Potts model on rewired lattices
 - Scripts for generating rewired lattices using the Watts-Strogatz algorithm
-- Analysis tools for averaging and visualizing phase ordering dynamics
-- Documentation and sample results from 1000-run ensembles
+
 
 ## Getting Started
 
